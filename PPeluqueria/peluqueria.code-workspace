@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "peluqueria"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
